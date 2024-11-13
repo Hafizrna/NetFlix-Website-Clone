@@ -1,2 +1,2 @@
 # NetFlix-Website-Clone
-https://github.com/Hafizrna/NetFlix-Website-Clone-.git
+Here is the NetFlix-Website-Clone which is developed by AbdulRehman for improving his front end skills.
